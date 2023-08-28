@@ -1,6 +1,6 @@
 [project]
 name = "b2t-study-prophet"
-version = "0.1.0"
+version = "0.2.0"
 description = "study ML prophet"
 authors = [
     {name = "dmario24", email = "data.mario24@gmail.com"},
